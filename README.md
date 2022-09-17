@@ -71,8 +71,9 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/mohammad-asif-ibna-mustafa-21478a11b/"><img src="https://img.shields.io/badge/-Saad%20Fareed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:asifibnamustafa87@gmail.com"><img src="https://img.shields.io/badge/-saadfareed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohammad-asif-ibna-mustafa-21478a11b/"><img src="https://img.shields.io/badge/-Mohammad%20Asif%20Ibna%20Mustafa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:asifibnamustafa87@gmail.com"><img src="https://img.shields.io/badge/-asifibnamustafa87@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/Asif_Mustafa87"><img src="https://img.shields.io/badge/-@Asif_Mustafa87-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
 <!---<a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a> -->
  </p>
